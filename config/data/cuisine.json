@@ -1,0 +1,38 @@
+{
+  "label": "Cuisine",
+  "fields": [
+    {
+      "name": "cuisine_ouverte",
+      "label": "cuisine_ouverte",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "cuisine_accessible",
+      "label": "cuisine_accessible",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "plats_presence_enfants",
+      "label": "plats_presence_enfants",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "label": "Compartimentage",
+  "fields": [
+    {
+      "name": "portes",
+      "label": "Portes",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "parois_horizontales",
+      "label": "parois horizontales",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "parois_verticales",
+      "label": "parois verticales",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "travers_es_de_parois",
+      "label": "traversées de parois",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    }
+  ]
+}

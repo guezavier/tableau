@@ -1,0 +1,71 @@
+{
+  "label": "Chauffage",
+  "fields": [
+    {
+      "name": "bois",
+      "label": "bois",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "mazout",
+      "label": "mazout",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "pellets",
+      "label": "pellets",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "gaz",
+      "label": "gaz",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "lectrique",
+      "label": "électrique",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "pompe_chaleur",
+      "label": "pompe à chaleur",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    }
+  ]
+}

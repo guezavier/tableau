@@ -1,0 +1,192 @@
+{
+  "label": "Modules",
+  "fields": [
+    {
+      "name": "batiment",
+      "label": "batiment",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "chauffage",
+      "label": "chauffage",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "documents",
+      "label": "documents",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "detecteurs",
+      "label": "detecteurs",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "cuisine",
+      "label": "cuisine",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "evacuation",
+      "label": "Evacuation",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "batiment",
+      "label": "batiment",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "chauffage",
+      "label": "chauffage",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "documents",
+      "label": "documents",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "batiment",
+      "label": "batiment",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "chauffage",
+      "label": "chauffage",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "detecteurs",
+      "label": "detecteurs",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "batiment",
+      "label": "batiment",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "chauffage",
+      "label": "chauffage",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "documents",
+      "label": "documents",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "compartimentage",
+      "label": "compartimentage",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "cuisine",
+      "label": "cuisine",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    }
+  ]
+}

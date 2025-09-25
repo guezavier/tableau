@@ -1,0 +1,49 @@
+{
+  "label": "Documents",
+  "fields": [
+    {
+      "name": "lectricit",
+      "label": "électricité",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "chauffage",
+      "label": "chauffage",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "extincteur",
+      "label": "extincteur",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "d_tection",
+      "label": "détection",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    }
+  ]
+}

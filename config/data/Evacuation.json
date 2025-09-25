@@ -1,0 +1,16 @@
+{
+  "label": "Evacuation",
+  "fields": [
+    {
+      "name": "chemins_d_vacuation",
+      "label": "Chemins d'évacuation",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    }
+  ]
+}

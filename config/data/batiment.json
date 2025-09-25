@@ -1,0 +1,49 @@
+{
+  "label": "Batiment",
+  "fields": [
+    {
+      "name": "mixte",
+      "label": "Mixte",
+      "type": "checkbox"
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "structure_traditionnelle",
+      "label": "Structure traditionnelle",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "structure_l_g_re_bois",
+      "label": "Structure légère (bois)",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    },
+    {
+      "name": "accessibilit_v_hicules_secours",
+      "label": "Accessibilité véhicules secours",
+      "type": "select",
+      "options": [
+        "SO",
+        "OK",
+        "NOK"
+      ],
+      "remark": true
+    }
+  ]
+}
